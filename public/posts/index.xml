@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on My New Hugo Site</title>
+    <link>http://localhost:1313/posts/</link>
+    <description>Recent content in Posts on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>© 2025 </copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Grått hvitt hår!</title>
+      <link>http://localhost:1313/posts/graatt-hvitt-haar/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/graatt-hvitt-haar/</guid>
+      <description>&lt;p&gt;Natt til i dag har for mange vært en emosjonell påkjenning. Spesielt for den del av befolkningen som har klart å stelle seg imot urbaniseingens vrede, ble fyrverkeriet som lyste opp himmelen i vakre formasjoner et øyeblikk for glede med nære kjære.&lt;/p&gt;
+&lt;p&gt;Men nyttårsaften er også en tid til refleksjon, et øyeblikk til å stoppe opp og se tilbake på hvordan vi lever livet.&lt;/p&gt;
+&lt;p&gt;Unge ønsker gjerne å følge ambisjoner og treningsidéaler, andre fokus på velvære, åndelighet eller karriere, og atter noen med personlige målsetninger som bare hjertet kan sette ord på.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Bane Nor tror de har funnet årsaken til togkaoset</title>
+      <link>http://localhost:1313/posts/bane-nor-tror-de-har-funnet-%C3%A5rsaken-til-togkaoset/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/bane-nor-tror-de-har-funnet-%C3%A5rsaken-til-togkaoset/</guid>
+      <description>&lt;p&gt;![[Pasted image 20241226162116.png]]
+– Feilen er fortsatt der, men vi mener vi har funnet rot-årsaken. Den er knyttet til en feil på en brannmur som sikrere den digitale infrastrukturen. Vi jobber sammen med leverandøren for å løse det&lt;/p&gt;
+&lt;p&gt;Det sier pressekontakt Øystein Stavdal Paulsen i &lt;a href=&#34;https://www.vg.no/tag/bane-nor?utm_source=vg-article&amp;amp;utm_medium=auto-tagger&amp;amp;utm_campaign=VzeAqr&#34; target=&#34;_blank&#34;&gt;Bane Nor&lt;/a&gt; til NTB. Han vet ikke hvor lang tid det vil ta å fikse det, men sier de jobber med å avklare dette nå.&lt;/p&gt;
+&lt;p&gt;– Det viktigste er at trafikken er i gang igjen, og går som normalt uten problemer, sier Paulsen.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Test av flere skribenter</title>
+      <link>http://localhost:1313/posts/multiple-authors-test/</link>
+      <pubDate>Thu, 26 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/multiple-authors-test/</guid>
+      <description>&lt;p&gt;I denne artikkel tester vi muligheten for flere skribenter av en og samme artikkel. Dette tyder å virke godt.&lt;/p&gt;
+&lt;p&gt;Det har seg slik at nettsiden begynner å bli helhetlig nå, et faktum vi gleder oss over i Løken.&lt;/p&gt;</description>
+      
+    </item>
+    
+    <item>
+      <title>Offisiell lansering av Løken</title>
+      <link>http://localhost:1313/posts/first-blog-post/</link>
+      <pubDate>Wed, 25 Dec 2024 00:00:00 +0000</pubDate>
+      
+      <guid>http://localhost:1313/posts/first-blog-post/</guid>
+      <description>&lt;p&gt;Kjære lesere, velkommen er dere til den store lanseringen av Løken.&lt;/p&gt;
+&lt;p&gt;Da følelsen av hjelpløshet i det sansede behov for fornorsking av avisen The Onion traff inn over meg, ble veien om etablering av en ytre norskspråklig konkurrent den åpenbart lettere vei enn den indre reformative som kunne vraket deres forretningsmodell. Resultatet ble den avis de nå leser, Løken.&lt;/p&gt;
+&lt;p&gt;Vi ser frem til hva vi klarer å levere det norske folk.&lt;/p&gt;</description>
+      
+    </item>
+    
+  </channel>
+</rss>
