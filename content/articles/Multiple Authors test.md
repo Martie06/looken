@@ -7,7 +7,8 @@ tags:
 slug: multiple-authors-test
 showAuthor: false
 authors:
-- "MartinBuchholz"
+  - MartinBuchholz
+draft: true
 ---
 I denne artikkel tester vi muligheten for flere skribenter av en og samme artikkel. Dette tyder å virke godt.
 

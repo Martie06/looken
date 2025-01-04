@@ -7,9 +7,10 @@ tags:
   - Jernbane
 slug: Bane-Nor-tror-de-har-funnet-årsaken-til-togkaoset
 showAuthor: true
-authors:
+authors: 
+draft: true
 ---
-!![Image Description](/images/Pasted%20image%2020241226162116.png)
+![[Pasted image 20241226162116.png]]
 – Feilen er fortsatt der, men vi mener vi har funnet rot-årsaken. Den er knyttet til en feil på en brannmur som sikrere den digitale infrastrukturen. Vi jobber sammen med leverandøren for å løse det
 
 Det sier pressekontakt Øystein Stavdal Paulsen i [Bane Nor](https://www.vg.no/tag/bane-nor?utm_source=vg-article&utm_medium=auto-tagger&utm_campaign=VzeAqr) til NTB. Han vet ikke hvor lang tid det vil ta å fikse det, men sier de jobber med å avklare dette nå.
