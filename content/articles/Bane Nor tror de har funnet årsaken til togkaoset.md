@@ -10,8 +10,11 @@ showAuthor: true
 authors: 
 draft: true
 ---
-![[Pasted image 20241226162116.png]]
+!![Image Description](/images/Pasted%20image%2020241226162116.png)
+
 – Feilen er fortsatt der, men vi mener vi har funnet rot-årsaken. Den er knyttet til en feil på en brannmur som sikrere den digitale infrastrukturen. Vi jobber sammen med leverandøren for å løse det
+
+!![Image Description](/images/rosenlaui-bakgrunn.jpg)
 
 Det sier pressekontakt Øystein Stavdal Paulsen i [Bane Nor](https://www.vg.no/tag/bane-nor?utm_source=vg-article&utm_medium=auto-tagger&utm_campaign=VzeAqr) til NTB. Han vet ikke hvor lang tid det vil ta å fikse det, men sier de jobber med å avklare dette nå.
 

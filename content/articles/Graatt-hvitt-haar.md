@@ -19,9 +19,9 @@ Unge ønsker gjerne å følge ambisjoner og treningsidéaler, andre fokus på ve
 
 Men der finnes en gruppe som ikke nødvendigvis fryder seg over at tiden går. For selv om Gjensidige består, er dette neppe tilfelle for mennesket. Når våre eldre skuer nattehimlens fenomener strømmer livets minner gjennom tankene, men dermed kommer også innsikt om at livet en gang skal ta slutt. 
 
-	Imens de fallende pjuskede rakketter på himmelen skinner i de livligste farver, minnes våre eldre på at pjusken på hodet stadig blir gråere. Livet blir med tiden bokstavelig talt sugd ut fra kjødets styrerom. 
+Imens de fallende pjuskede rakketter på himmelen skinner i de livligste farver, minnes våre eldre på at pjusken på hodet stadig blir gråere. Livet blir med tiden bokstavelig talt sugd ut fra kjødets styrerom. 
 
-![[graatt-hvitt-haar-dame.jpg]]
+!![Image Description](/images/graatt-hvitt-haar-dame.jpg)
 
 Dårlig hørsel kan atter skape tanker om det liv som nærmer seg å bli fullbrakt. Og har en da klart å fullføre alle de nyttårsforsetter en inngikk i ung alder. De opprinnelig frydelige ordene "Godt nytt år" gjenstår bare å minne om det det klinger som.
 
